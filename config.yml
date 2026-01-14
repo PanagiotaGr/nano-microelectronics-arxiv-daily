@@ -1,0 +1,115 @@
+days_back: 2
+max_results_per_topic: 20
+
+# arXiv categories relevant to nanotech / microelectronics
+categories:
+  - cond-mat.mtrl-sci   # Materials Science
+  - cond-mat.mes-hall   # Mesoscale and Nanoscale Physics
+  - cond-mat.dis-nn     # Disordered Systems and Neural Networks (often materials/transport too)
+  - physics.app-ph      # Applied Physics
+  - physics.ins-det     # Instrumentation and Detectors
+  - eess.SP             # Signal Processing (devices/sensing papers sometimes appear here)
+  - eess.SY             # Systems and Control (less central, optional)
+  - cs.ET               # Emerging Technologies (optional)
+  - cs.AR               # Hardware Architecture (optional)
+
+topics:
+  Nanomaterials & Synthesis:
+    - nanomaterial
+    - nanoparticles
+    - quantum dots
+    - 2d materials
+    - graphene
+    - mos2
+    - heterostructure
+    - thin film
+    - deposition
+    - epitaxy
+    - cvd
+    - ald
+    - sol-gel
+    - self-assembly
+
+  Nanoelectronics & Devices:
+    - nanoelectronics
+    - transistor
+    - fet
+    - mosfet
+    - finfet
+    - gate-all-around
+    - gaaq
+    - memristor
+    - rram
+    - ferroelectric
+    - negative capacitance
+    - tunneling
+    - tfet
+    - schottky
+    - contact resistance
+
+  Semiconductor Processing & Fabrication:
+    - lithography
+    - e-beam lithography
+    - etching
+    - plasma etching
+    - annealing
+    - doping
+    - implantation
+    - process integration
+    - fab
+    - cmos
+
+  Photonics, Optoelectronics & Plasmonics:
+    - photonics
+    - optoelectronics
+    - silicon photonics
+    - plasmonics
+    - metamaterial
+    - waveguide
+    - microresonator
+    - led
+    - photodetector
+    - laser
+
+  Sensors, BioMEMS & Lab-on-Chip:
+    - sensor
+    - biosensor
+    - microfluidics
+    - lab-on-chip
+    - mems
+    - nems
+    - bioMEMS
+    - wearable
+    - point-of-care
+
+  Power & Energy Materials (Micro/Nano):
+    - battery
+    - solid-state battery
+    - supercapacitor
+    - fuel cell
+    - electrolyzer
+    - photovoltaic
+    - perovskite
+    - thermoelectric
+
+  Reliability, Variability & Modeling:
+    - reliability
+    - variability
+    - aging
+    - degradation
+    - hot carrier
+    - bias temperature instability
+    - bti
+    - noise
+    - 1/f noise
+    - compact model
+    - tcad
+
+  Packaging & Advanced Integration:
+    - 3d integration
+    - chiplet
+    - through-silicon via
+    - tsv
+    - heterogenous integration
+    - advanced packaging
+    - thermal management
