@@ -1,16 +1,21 @@
 # CMOS, Process & Fabrication
 
-**Last update:** 2026-02-03
+**Last update:** 2026-02-04
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Time2Vec-Integrated Transformer for Robust Gesture Recognition from Low-Density sEMG**
-  - Authors: Blagoj Hristov, Hristijan Gjoreski, Vesna Ojleska Latkoska, Gorjan Nadzinski
-  - Published: 2026-02-02 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2602.01855v1) | [PDF](https://arxiv.org/pdf/2602.01855v1)
-  - Matched: yield
+- **Characterization of Stitched Prototypes Chip for the ALICE ITS3 Upgrade**
+  - Authors: Michele Rignanese
+  - Published: 2026-02-03 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2602.03504v1) | [PDF](https://arxiv.org/pdf/2602.03504v1)
+  - Matched: cmos
+- **A bulk acoustic resonator with vertical electrodes for wideband filters**
+  - Authors: Silvan Stettler, Edgar Navarro-Gesse, Carlos Collado, Jordi Mateu, Luis G. Villanueva
+  - Published: 2026-02-02 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.02782v1) | [PDF](https://arxiv.org/pdf/2602.02782v1)
+  - Matched: lithography
 
 ---
 
