@@ -1,41 +1,26 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-02-05
+**Last update:** 2026-02-06
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Epitaxial growth optimization, measurement and theoretical analysis of strain-compensated QCL grown on (511)A InP**
-  - Authors: Alessio Cargioli, Mattias Beck, Jerome Faist
-  - Published: 2026-02-04 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04874v1) | [PDF](https://arxiv.org/pdf/2602.04874v1)
-  - Matched: laser
-- **Aortic Valve Disease Detection from PPG via Physiology-Informed Self-Supervised Learning**
-  - Authors: Jiaze Wang, Qinghao Zhao, Zizheng Chen, Zhejun Sun, Deyun Zhang, Yuxi Zhou, Shenda Hong
-  - Published: 2026-02-04 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04266v1) | [PDF](https://arxiv.org/pdf/2602.04266v1)
-  - Matched: led
-- **Massive coherent equipartition of light by the geometric phase of null space**
-  - Authors: Xiangrui Hou, Dongyi Wang, Fangyu Wang, Congwei Lu, Zhaoju Yang, Guancong Ma
-  - Published: 2026-02-04 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04259v1) | [PDF](https://arxiv.org/pdf/2602.04259v1)
-  - Matched: photonics, waveguide, laser, led
-- **A universal waveguide mass--energy relation for lossy one-dimensional waves in nature**
-  - Authors: Huayang Cai, Bishuang Chen
-  - Published: 2026-02-04 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04171v1) | [PDF](https://arxiv.org/pdf/2602.04171v1)
+- **Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM**
+  - Authors: Mairi McCauley, Joel Martis, Ondrej L. Krivanek, Ben Plotkin-Swing, Andreas Mittelberger, Tolga Wagner, Hüseyin Çelik, Grigory Kornilov, Meng Zhao, Matthias Meffert et al.
+  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05911v1) | [PDF](https://arxiv.org/pdf/2602.05911v1)
+  - Matched: laser, led
+- **Quantum dot single photon source on SiN integrated with coupled crossover waveguides**
+  - Authors: Akinari Fujita, Hironobu Yoshimi, Natthajuks Pholsen, Masahiro Kakuda, Makoto Okano, Satoshi Iwamoto, Yasuhiko Arakawa, Yasutomo Ota
+  - Published: 2026-02-05 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05491v1) | [PDF](https://arxiv.org/pdf/2602.05491v1)
   - Matched: waveguide, led
-- **Electronic Structure of CaSnN$_2$: a sustainable alternative for blue LEDs**
-  - Authors: Ilteris K. Turan, Sarker Md. Sadman, Walter R. L. Lambrecht
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04106v1) | [PDF](https://arxiv.org/pdf/2602.04106v1)
+- **Optimization of random phase approximation calculations for improved energies of molecules, solids, and surfaces**
+  - Authors: Neung-Kyung Yu, Johannes Voss, Andrew J. Medford
+  - Published: 2026-02-04 | Category: `physics.chem-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05138v1) | [PDF](https://arxiv.org/pdf/2602.05138v1)
   - Matched: led
-- **Ultra-Fast Device-Free Visible Light Sensing and Localization via Reflection-Based ΔRSS and Deep Learning**
-  - Authors: Helena Serpi, Christina, Politi
-  - Published: 2026-02-03 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04062v1) | [PDF](https://arxiv.org/pdf/2602.04062v1)
-  - Matched: photodetector, led
 
 ---
 

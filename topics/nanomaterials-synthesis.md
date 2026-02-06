@@ -1,51 +1,41 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-05
+**Last update:** 2026-02-06
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Triple Junctions as Dislocation-Like Defects: The Role of Grain Boundary Crystallography Revealed by Experiment and Atomistic Simulation**
-  - Authors: Tobias Brink, Saba Saood, Peter Schweizer, Jörg Neugebauer, Gerhard Dehm
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04530v1) | [PDF](https://arxiv.org/pdf/2602.04530v1)
+- **Low-temperature spin dynamics in LAFO thin films: from cubic anisotropy to TLS-limited coherence**
+  - Authors: Srishti Pal, Guanxiong Qu, Hervé M. Carruzzo, Katya Mikhailova, Lerato Takana, Qin Xu, Yuri Suzuki, Clare C. Yu, Gregory D. Fuchs
+  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05889v1) | [PDF](https://arxiv.org/pdf/2602.05889v1)
   - Matched: thin film
-- **Potential-Induced Dynamic Coordination of Nonmetal Atoms Directly Bound to Metal Centers in Graphene-Embedded Single-Atom Catalysts and Its Implications**
-  - Authors: Jiahang Li, Suhang Li, Chong Yan, Qinzhuang Liu, Jiajun Yu, Dongwei Ma
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04475v1) | [PDF](https://arxiv.org/pdf/2602.04475v1)
-  - Matched: graphene
-- **ZnCdO:Eu Epitaxially Grown Alloys for Self-Powered Ultrafast Broadband Photodetection**
-  - Authors: Igor Perlikowski, Eunika Zielony, Aleksandra Wierzbicka, Anastasiia Lysak, Rafal Jakiela, Ewa Przezdziecka
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04426v1) | [PDF](https://arxiv.org/pdf/2602.04426v1)
+- **Questionable van der Waals Epitaxy of Non-Layered Materials on Fluorophlogopite Mica: The Case of ScN**
+  - Authors: Susmita Chowdhury, Faezeh Alijan Farzad Lahiji, Mikael Ottoson, Olivier Donzel-Gargand, Robert J. W. Frost, Martin Magnuson, Ganpati Ramanath, Arnaud le Febvrier, Per Eklund
+  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05741v1) | [PDF](https://arxiv.org/pdf/2602.05741v1)
+  - Matched: thin film, deposition, epitaxy
+- **Color Centers and Hyperbolic Phonon Polaritons in Hexagonal Boron Nitride: A New Platform for Quantum Optics**
+  - Authors: Jie-Cheng Feng, Johannes Eberle, Sambuddha Chattopadhyay, Johannes Knörzer, Eugene Demler, Ataç İmamoğlu
+  - Published: 2026-02-05 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05736v1) | [PDF](https://arxiv.org/pdf/2602.05736v1)
+  - Matched: hbn
+- **Crystallinity Evolution of MOCVD-Grown $β$-Ga$_2$O$_3$ Films Probed by In Situ HT-XRD under Different Reactor Heights**
+  - Authors: Imteaz Rahaman, Botong Li, Bobby G. Duersch, Hunter D. Ellis, Kathy Anderson, Kai Fu
+  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05481v1) | [PDF](https://arxiv.org/pdf/2602.05481v1)
+  - Matched: thin film, deposition, cvd
+- **Physics-informed acquisition weighting for stoichiometry-constrained Bayesian optimization of oxide thin-film growth**
+  - Authors: Yuki K. Wakabayashi, Takuma Otsuka, Yoshiharu Krockenberger, Yoshitaka Taniyasu
+  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05350v1) | [PDF](https://arxiv.org/pdf/2602.05350v1)
   - Matched: epitaxy
-- **Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering**
-  - Authors: Fei Peng, Zhichao Liang, Zhoutao Yang, Yijia Chen, Wenjie Mai, Chuanxi Zhao
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04280v1) | [PDF](https://arxiv.org/pdf/2602.04280v1)
-  - Matched: deposition
-- **Long-range orbital transport and inverse orbital Hall effect in Co/Ru-based terahertz emitters**
-  - Authors: Zhou Chao, Zhang Shaohua, Hao Lei, Jin Yaxuan, Jiang Xianguo, Yang Ning, Zheng Li, Meng Hao, Lu Chao, Huang Wendeng et al.
-  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.04186v1) | [PDF](https://arxiv.org/pdf/2602.04186v1)
-  - Matched: heterostructure
-- **Tuning Terahertz Optomechanics of MoS2 Bilayers with Homogeneous In-plane Strain**
-  - Authors: S. Patel, Jose D. Mella, S. Puri, Salvador Barraza-Lopez, H. Nakamura
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03996v1) | [PDF](https://arxiv.org/pdf/2602.03996v1)
-  - Matched: mos2
-- **Synthesis and guided assembly of niobium trisulfide nanowires and nanowire chains by chemical vapor deposition**
-  - Authors: Thang Pham, Arindom Nag, Kate Reidy, Michael A. Filler, Frances M. Ross
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03971v1) | [PDF](https://arxiv.org/pdf/2602.03971v1)
-  - Matched: nanomaterial, graphene, deposition
-- **Electrically and optically active charge carrier traps in silicon-doped few-layer GaSe**
-  - Authors: M. Bissolo, R. Li, M. Ogura, Z. Sofer, S. Polesya, D. Han, A. W. Holleitner, C. Kastl, G. Koblmüller, H. Ebert et al.
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03964v1) | [PDF](https://arxiv.org/pdf/2602.03964v1)
-  - Matched: 2d material
+- **Vertical Nb Josephson junctions fabricated by direct metal deposition on both surfaces of freestanding graphene layers**
+  - Authors: Yoonkang Kim, Seongbeom Kim, Jeonglyul Kim, Kikyung Jung, Sejin An, Jieun Lee, Hyobin Yoo, Joon Young Park, Gyu-Chul Yi
+  - Published: 2026-02-05 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2602.05170v1) | [PDF](https://arxiv.org/pdf/2602.05170v1)
+  - Matched: graphene, deposition
 
 ---
 
