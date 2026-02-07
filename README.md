@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-06  
-**Daily archive:** `digests/2026-02-06.md`  
+**Last update:** 2026-02-07  
+**Daily archive:** `digests/2026-02-07.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,77 +50,22 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Low-temperature spin dynamics in LAFO thin films: from cubic anisotropy to TLS-limited coherence**
-  - Authors: Srishti Pal, Guanxiong Qu, Hervé M. Carruzzo, Katya Mikhailova, Lerato Takana, Qin Xu, Yuri Suzuki, Clare C. Yu, Gregory D. Fuchs
-  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05889v1) | [PDF](https://arxiv.org/pdf/2602.05889v1)
-  - Matched: thin film
-- **Questionable van der Waals Epitaxy of Non-Layered Materials on Fluorophlogopite Mica: The Case of ScN**
-  - Authors: Susmita Chowdhury, Faezeh Alijan Farzad Lahiji, Mikael Ottoson, Olivier Donzel-Gargand, Robert J. W. Frost, Martin Magnuson, Ganpati Ramanath, Arnaud le Febvrier, Per Eklund
-  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05741v1) | [PDF](https://arxiv.org/pdf/2602.05741v1)
-  - Matched: thin film, deposition, epitaxy
-- **Color Centers and Hyperbolic Phonon Polaritons in Hexagonal Boron Nitride: A New Platform for Quantum Optics**
-  - Authors: Jie-Cheng Feng, Johannes Eberle, Sambuddha Chattopadhyay, Johannes Knörzer, Eugene Demler, Ataç İmamoğlu
-  - Published: 2026-02-05 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05736v1) | [PDF](https://arxiv.org/pdf/2602.05736v1)
-  - Matched: hbn
-- _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
+_No matches today._
 
 
 ### Nano/Microelectronic Devices
 
-- **Photonic neuromorphic processing with coupled spiking silicon microrings**
-  - Authors: Giovanni Donati, Stefano Biasi, Lorenzo Pavesi, Antonio Hurtado
-  - Published: 2026-02-05 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05918v1) | [PDF](https://arxiv.org/pdf/2602.05918v1)
-  - Matched: sic
-- **Quantum Sequential Circuits**
-  - Authors: D. -S. Wang
-  - Published: 2026-02-05 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05166v1) | [PDF](https://arxiv.org/pdf/2602.05166v1)
-  - Matched: transistor, sic
-- **Self-aligned optical microcomb emerging between octave separated lasers**
-  - Authors: Grégory Moille, Pradyoth Shandilya, Jordan Stone, River Beard, Shao-Chien Ou, Zongda Li, Mark Harrington, Kaikai Liu, Robert Rockmore, Curtis R. Menyuk et al.
-  - Published: 2026-02-05 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05151v1) | [PDF](https://arxiv.org/pdf/2602.05151v1)
-  - Matched: sic
-- _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
+_No matches today._
 
 
 ### CMOS, Process & Fabrication
 
-- **Balancing FP8 Computation Accuracy and Efficiency on Digital CIM via Shift-Aware On-the-fly Aligned-Mantissa Bitwidth Prediction**
-  - Authors: Liang Zhao, Kunming Shao, Zhipeng Liao, Xijie Huang, Tim Kwang-Ting Cheng, Chi-Ying Tsui, Yi Zou
-  - Published: 2026-02-05 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05743v1) | [PDF](https://arxiv.org/pdf/2602.05743v1)
-  - Matched: cmos
-- **Spin current generation via magnetic skyrmion, bimeron, and meron crystals**
-  - Authors: Aoi Kajihara, Shun Okumura, Yukitoshi Motome
-  - Published: 2026-02-05 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05332v1) | [PDF](https://arxiv.org/pdf/2602.05332v1)
-  - Matched: yield
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM**
-  - Authors: Mairi McCauley, Joel Martis, Ondrej L. Krivanek, Ben Plotkin-Swing, Andreas Mittelberger, Tolga Wagner, Hüseyin Çelik, Grigory Kornilov, Meng Zhao, Matthias Meffert et al.
-  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05911v1) | [PDF](https://arxiv.org/pdf/2602.05911v1)
-  - Matched: laser, led
-- **Quantum dot single photon source on SiN integrated with coupled crossover waveguides**
-  - Authors: Akinari Fujita, Hironobu Yoshimi, Natthajuks Pholsen, Masahiro Kakuda, Makoto Okano, Satoshi Iwamoto, Yasuhiko Arakawa, Yasutomo Ota
-  - Published: 2026-02-05 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05491v1) | [PDF](https://arxiv.org/pdf/2602.05491v1)
-  - Matched: waveguide, led
-- **Optimization of random phase approximation calculations for improved energies of molecules, solids, and surfaces**
-  - Authors: Neung-Kyung Yu, Johannes Voss, Andrew J. Medford
-  - Published: 2026-02-04 | Category: `physics.chem-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05138v1) | [PDF](https://arxiv.org/pdf/2602.05138v1)
-  - Matched: led
-- _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
+_No matches today._
 
 
 ### MEMS/NEMS & Sensors
@@ -130,27 +75,12 @@ _No matches today._
 
 ### Energy & Power Materials (Micro/Nano)
 
-- **First-principles study of photovoltaic and thermoelectric properties of AgBiSCl2**
-  - Authors: Sihang Wang, Menghan Chen, Liping Zhang
-  - Published: 2026-02-05 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05355v1) | [PDF](https://arxiv.org/pdf/2602.05355v1)
-  - Matched: photovoltaic, thermoelectric
-- _(See full topic page: [Energy & Power Materials (Micro/Nano)](topics/energy-power-materials-micro-nano.md))_
+_No matches today._
 
 
 ### Reliability, Modeling & TCAD
 
-- **Quantum noise scaling in continuously operating multiparameter sensors**
-  - Authors: Aleksandra Sierant, Diana Méndez-Avalos, Santiago Tabares Giraldo, Morgan W. Mitchell
-  - Published: 2026-02-05 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05991v1) | [PDF](https://arxiv.org/pdf/2602.05991v1)
-  - Matched: noise
-- **Sound Field Estimation Using Optimal Transport Barycenters in the Presence of Phase Errors**
-  - Authors: Yuyang Liu, Johan Karlsson, Filip Elvander
-  - Published: 2026-02-05 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.05715v1) | [PDF](https://arxiv.org/pdf/2602.05715v1)
-  - Matched: noise
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
